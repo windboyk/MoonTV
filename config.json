@@ -2,9 +2,9 @@
   "cache_time": 7200,
   "custom_category": [
     {
-      "name": "港剧",
+      "name": "香港",
       "type": "tv",
-      "query": "港剧"
+      "query": "香港"
     }
   ],
   "api_site": {
